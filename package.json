@@ -6,7 +6,7 @@
   "author": "James Lal",
 
   "dependencies" : {
-    "test-agent": "~0.8",
+    "test-agent": "0.10",
     "debug": "~0.6"
   },
 
